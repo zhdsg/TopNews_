@@ -9,11 +9,11 @@
     <version>1.0</version>
 
     <properties>
-        <scala.version>2.11.8</scala.version>
-        <spark.version>2.0.0</spark.version>
+        <scala.version>2.10.5</scala.version>
+        <spark.version>1.6.1</spark.version>
         <hadoop.version>2.6.5</hadoop.version>
         <jackson.version>2.4.4</jackson.version>
-        <scala.first>2.11</scala.first>
+        <scala.first>2.10</scala.first>
     </properties>
 
     <repositories>

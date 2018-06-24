@@ -48,7 +48,7 @@ object ETLUtil {
 
   def regexpExtract(x:String , regexp:String,index :Int):String ={
       if(x ==null || x.equals("")){
-        return null
+        return ""
       }
       if(regexp == null || regexp.equals("")){
         return regexp
@@ -59,7 +59,7 @@ object ETLUtil {
       if(m.find(index)){
         m.group(index)
       }else{
-        null
+        ""
       }
 
   }

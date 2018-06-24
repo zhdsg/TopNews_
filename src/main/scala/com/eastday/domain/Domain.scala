@@ -36,3 +36,4 @@ import java.sql.Timestamp
 
 case class ActiveLog(clientime:String,dateline:Long,urlfrom:String,idx02:String,pgnum:String,urlto:String)
 case class AppFlowDomain(dt:String,hour :String, title:String ,type1:String ,url:String ,rate :Double)
+case class NewsDomain( title:String ,typepy:String ,url:String ,urlid :String)

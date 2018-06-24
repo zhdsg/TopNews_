@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/main/java/dao/Impl/Middle4AppDaoImpl.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/dao/Impl/MiddleDaoImpl.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/dao/Impl/UvAggr4AppDaoImpl.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/dao/Impl/UvAggrDaoImpl.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/dao/Middle4AppDao.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/dao/MiddleDao.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/dao/UvAggr4AppDao.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/dao/UvAggrDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/Impl/AppFlowInsertDaoImpl.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/jdbc/JDBCHelper.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources/my.properties" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/conf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/constract" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/domain" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/spark" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/utils" charset="UTF-8" />
